@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/../jsBomber/.idea/jsBomber.iml" filepath="$PROJECT_DIR$/../jsBomber/.idea/jsBomber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/jsBomber.iml" filepath="$PROJECT_DIR$/.idea/jsBomber.iml" />
     </modules>
   </component>
 </project>
